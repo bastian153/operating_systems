@@ -1,0 +1,253 @@
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+to
+to
+to
+de p
+de q
+to
+to
+to
+
+init
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+to
+de w
+to
+to
+
+init
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+to
+to
+de w
+to
+de x
+
+init
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+to
+de x
+
+init
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+to
+de y
+to
+
+init
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+req R1 1
+to
+req R2 1
+to
+to
+rel R1 1
+to
+rel R2 1
+to
+to
+to
+
+init
+cr x 2
+cr y 2
+req R3 1
+to
+req R1 1
+to
+req R3 2
+rel R3 3
+to
+rel R1 1
+to
+
+init
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+req R1 1
+to
+req R1 1
+req R1 1
+to
+rel R1 1
+to
+rel R1 1
+to
+to
+to
+
+init
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+req R4 4
+to
+req R3 3
+req R4 4
+to
+req R3 3
+req R3 1
+to
+to
+to
+
+init
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+req R4 4
+to
+to
+req R3 3
+req R4 1
+req R3 1
+to
+de w
+to
+
+init
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+to
+to
+req R1 1
+to
+to
+req R1 1
+to
+de w
+to
+to
+
+init
+cr x 2
+cr y 1
+cr y 2
+
+init
+cr x 2
+cr y 1
+de z
+
+init
+cr x 1
+req R5 1
+
+init
+cr x 2
+req R4 1
+rel R1 1
+
+init
+cr x 2
+req R4 1
+rel R5 1
+
+init
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+req R3 1
+to
+req R3 1
+to
+to
+req R3 1
+to
+req R3 2
+to
+rel R3 2
+to
+to
+
+init
+cr x 2
+cr y 2
+cr z 1
+to
+cr p 1
+cr q 1
+cr w 2
+req R4 1
+req R4 3
+to
+req R4 2
+req R4 1
+rel R4 3
+to
+to
+
+init
+cr x 2
+req R1 2
+
+init
+cr x 2
+req R3 2
+rel R3 3
+
+init
+cr x 2
+cr y 2
+to
+de x
+
+

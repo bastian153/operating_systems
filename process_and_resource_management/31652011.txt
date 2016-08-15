@@ -1,0 +1,22 @@
+init x x x y y y y x w y y y x w y 
+init x x x y y y y x error w y 
+init x x x y y y y x w y x init 
+init x x x y y y y x init 
+init x x x y y y y x x x 
+init x x x y y y y y x x w y y x x w y x 
+init x x x y y x x x y y x 
+init x x x y y y y y x w y y y x x y w x 
+init x x x y y y y y x x w y w z p q z 
+init x x x y y y y y x w w y x x x x 
+init x x x y y y y x w w y x w y y x y 
+init x x error 
+init x x error 
+init x error 
+init x x x 
+init x x error 
+init x x x y y y y y x x w y y x error w w y x 
+init x x x y y y y y y x w y y x w 
+init x error 
+init x x error x 
+init x x y error 
+
